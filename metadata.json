@@ -1,0 +1,8 @@
+{
+  "name": "Remix WorldContábil - Ecossistema Contábil \u0026 Financeiro",
+  "description": "Comunidade interativa contábil: simulador contabilístico (Diário, Razão, Balancete, DRE, Balanço), PGC Angola em PDF, fórum de normas, gamificação, marketplace e painel do administrador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
